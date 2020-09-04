@@ -17,7 +17,7 @@
     "graphql": "^14.5.8",
     "lodash": "^4.17.15",
     "moxios": "^0.4.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-apollo": "^3.1.2",
